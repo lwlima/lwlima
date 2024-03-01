@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor full stack com 14 anos de experiência como programador por hobby desde os meus 13 anos, adquiri uma profunda paixao pela criação de soluções tecnologicas. Sendo 3 anos atuando profissionalmente, especializei-me como desenvolvedor full stack em PHP e ReactJs.</p>
+<p align="left">Iniciei minha jornada no desenvolvimento aos 13 anos, explorando-o como um hobby apaixonante. Ao longo de mais de uma década dedicada a essa paixão, adquiri habilidades valiosas e uma compreensão profunda da criação de soluções tecnológicas. Além disso, acumulei 3 anos de experiência profissional, especializando-me como desenvolvedor full stack em PHP e React. Sou dedicado a assegurar soluções robustas e eficientes, com um foco incansável na excelência técnica e na experiência do usuário.</p>
 
 ###
 
